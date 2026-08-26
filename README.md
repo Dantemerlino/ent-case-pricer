@@ -4,7 +4,7 @@ CY2026 CMS Physician Fee Schedule work-RVU reference for head & neck / otolaryng
 Select the codes performed; the page shows credited work RVUs (multi-procedure reduction,
 bilateral, and add-on rules applied) and the documentation each code requires.
 
-Live: https://cpt.aureliadata.com
+Live: https://cpt.ent-ai-agent.com
 
 Single self-contained `index.html` — no build step, no dependencies, no data leaves the browser.
 
